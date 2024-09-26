@@ -7,3 +7,7 @@
 
 >LISTA
 ![lista](https://github.com/user-attachments/assets/b55f7235-02f0-462f-9a7b-635f83c307ab)
+
+>EDITAR
+![editar](https://github.com/user-attachments/assets/a480ea5c-e28e-4886-bc3b-c32c21ebe945)
+
